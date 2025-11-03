@@ -3,11 +3,8 @@
 Phase 1 delivers a baseline TF‑IDF + Linear SVM classifier for SMS spam detection. Phase 2 expands the pipeline with additional models and richer tooling.
 
 ## Demo Site
-```bash
-[python -m venv .venv
-.\.venv\Scripts\activate  # Windows
-pip install -r spam_classifier/requirements.txt](https://2025ml-spamemail7113040017.streamlit.app/)
-```
+[https://2025ml-spamemail7113040017.streamlit.app/)](https://2025ml-spamemail7113040017.streamlit.app/)
+
 ## Environment Setup
 
 ```bash
