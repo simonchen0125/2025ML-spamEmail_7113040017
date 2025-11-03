@@ -3,7 +3,7 @@
 Phase 1 delivers a baseline TF‑IDF + Linear SVM classifier for SMS spam detection. Phase 2 expands the pipeline with additional models and richer tooling.
 
 ## Demo Site
-[https://2025ml-spamemail7113040017.streamlit.app/)](https://2025ml-spamemail7113040017.streamlit.app/)
+[https://2025ml-spamemail7113040017.streamlit.app/](https://2025ml-spamemail7113040017.streamlit.app/)
 
 ## Environment Setup
 
